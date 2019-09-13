@@ -1,0 +1,12 @@
+
+development:
+  database: apiDB
+  host: 127.0.0.1
+  port: 27017
+
+production:
+  host: hostname
+  database: apiDB
+  username: username
+  password: password
+  port: 27017
